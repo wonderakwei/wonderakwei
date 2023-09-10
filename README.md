@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **snowflake, airflow and tableau**
 
-- 👯 I’m looking to collaborate on [data science and amchine learningprojects](https://wonderakwei.github.io/index.html)
+- 👯 I’m looking to collaborate on [data science and machine learning projects](https://wonderakwei.github.io/index.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wonderakwei/](https://github.com/wonderakwei/)
 
